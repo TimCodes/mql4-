@@ -1,0 +1,84 @@
+0	09:59:05.799	Expert SMA_CRACKBACK EURNZDpro,H1: loaded successfully
+0	09:59:05.799	SMA_CRACKBACK EURNZDpro,H1 inputs: UseStopLoss=true; StopLoss=150; UseTakeProfit=false; TakeProfit=300; UseTrailingStop=true; TrailingStop=30; Lots=0.01; MagicNumber=12345; Slippage=3; MaxLots=1; MaxOrders=2; sma_short=100; sma_long=200; 
+0	09:59:06.182	Custom indicator DonChianChannel USDCADpro,H4: loaded successfully
+0	09:59:06.205	DonChianChannel USDCADpro,H4: initialized
+0	09:59:15.029	SMA_CRACKBACK EURNZDpro,H1: initialized
+0	10:45:06.728	SMA_CRACKBACK EURNZDpro,H1: uninit reason 2
+0	10:45:06.728	Expert SMA_CRACKBACK EURNZDpro,H1: removed
+0	10:45:06.738	Expert SMA_CRACKBACK EURNZDpro,H1: loaded successfully
+0	10:45:06.748	SMA_CRACKBACK EURNZDpro,H1: initialized
+0	12:17:29.951	SMA_CRACKBACK EURNZDpro,H1: uninit reason 2
+0	12:17:29.961	Expert SMA_CRACKBACK EURNZDpro,H1: removed
+0	12:17:29.971	Expert SMA_CRACKBACK EURNZDpro,H1: loaded successfully
+0	12:17:29.971	SMA_CRACKBACK EURNZDpro,H1: initialized
+0	12:19:08.585	SMA_CRACKBACK EURNZDpro,H1: uninit reason 2
+0	12:19:08.585	Expert SMA_CRACKBACK EURNZDpro,H1: removed
+0	12:19:08.595	Expert SMA_CRACKBACK EURNZDpro,H1: loaded successfully
+0	12:19:08.605	SMA_CRACKBACK EURNZDpro,H1: initialized
+0	12:22:03.322	SMA_CRACKBACK EURNZDpro,H1: uninit reason 2
+0	12:22:03.332	Expert SMA_CRACKBACK EURNZDpro,H1: removed
+0	12:22:03.342	Expert SMA_CRACKBACK EURNZDpro,H1: loaded successfully
+0	12:22:03.342	SMA_CRACKBACK EURNZDpro,H1: initialized
+0	12:22:14.551	SMA_CRACKBACK EURNZDpro,H1: uninit reason 2
+0	12:22:14.551	Expert SMA_CRACKBACK EURNZDpro,H1: removed
+0	12:22:14.561	Expert SMA_CRACKBACK EURNZDpro,H1: loaded successfully
+0	12:22:14.571	SMA_CRACKBACK EURNZDpro,H1: initialized
+0	12:23:33.112	SMA_CRACKBACK EURNZDpro,H1: uninit reason 2
+0	12:23:33.112	Expert SMA_CRACKBACK EURNZDpro,H1: removed
+0	12:23:33.122	Expert SMA_CRACKBACK EURNZDpro,H1: loaded successfully
+0	12:23:33.132	SMA_CRACKBACK EURNZDpro,H1: initialized
+0	12:24:32.662	SMA_CRACKBACK EURNZDpro,H1: uninit reason 2
+0	12:24:32.662	Expert SMA_CRACKBACK EURNZDpro,H1: removed
+0	12:24:32.672	Expert SMA_CRACKBACK EURNZDpro,H1: loaded successfully
+0	12:24:32.672	SMA_CRACKBACK EURNZDpro,H1: initialized
+0	12:24:33.924	SMA_CRACKBACK EURNZDpro,H1: uninit reason 2
+0	12:24:33.924	Expert SMA_CRACKBACK EURNZDpro,H1: removed
+0	12:24:33.934	Expert SMA_CRACKBACK EURNZDpro,H1: loaded successfully
+0	12:24:33.944	SMA_CRACKBACK EURNZDpro,H1: initialized
+0	12:25:01.311	SMA_CRACKBACK EURNZDpro,H1: uninit reason 2
+0	12:25:01.311	Expert SMA_CRACKBACK EURNZDpro,H1: removed
+0	12:25:01.321	Expert SMA_CRACKBACK EURNZDpro,H1: loaded successfully
+0	12:25:01.322	SMA_CRACKBACK EURNZDpro,H1: initialized
+0	12:28:24.305	SMA_CRACKBACK EURNZDpro,H1: uninit reason 2
+0	12:28:24.315	Expert SMA_CRACKBACK EURNZDpro,H1: removed
+0	12:28:24.315	Expert SMA_CRACKBACK EURNZDpro,H1: loaded successfully
+0	12:28:24.325	SMA_CRACKBACK EURNZDpro,H1: initialized
+0	12:29:32.513	SMA_CRACKBACK EURNZDpro,H1: uninit reason 2
+0	12:29:32.513	Expert SMA_CRACKBACK EURNZDpro,H1: removed
+0	12:29:32.523	Expert SMA_CRACKBACK EURNZDpro,H1: loaded successfully
+0	12:29:32.533	SMA_CRACKBACK EURNZDpro,H1: initialized
+0	13:54:06.269	Compiling 'SMA_CRACKBACK'
+0	13:57:06.953	SMA_CRACKBACK EURNZDpro,H1: uninit reason 2
+0	13:57:06.954	Expert SMA_CRACKBACK EURNZDpro,H1: removed
+0	13:57:06.963	Expert SMA_CRACKBACK EURNZDpro,H1: loaded successfully
+0	13:57:06.971	SMA_CRACKBACK EURNZDpro,H1: initialized
+0	13:57:07.625	SMA_CRACKBACK EURNZDpro,H1: uninit reason 2
+0	13:57:07.626	Expert SMA_CRACKBACK EURNZDpro,H1: removed
+0	13:57:07.634	Expert SMA_CRACKBACK EURNZDpro,H1: loaded successfully
+0	13:57:07.643	SMA_CRACKBACK EURNZDpro,H1: initialized
+0	14:32:07.367	SMA_CRACKBACK EURNZDpro,H1: uninit reason 2
+0	14:32:07.367	Expert SMA_CRACKBACK EURNZDpro,H1: removed
+0	14:32:07.377	Expert SMA_CRACKBACK EURNZDpro,H1: loaded successfully
+0	14:32:07.377	SMA_CRACKBACK EURNZDpro,H1: initialized
+0	15:28:08.603	SMA_CRACKBACK EURNZDpro,H1: uninit reason 2
+0	15:28:08.605	Expert SMA_CRACKBACK EURNZDpro,H1: removed
+0	15:28:08.613	Expert SMA_CRACKBACK EURNZDpro,H1: loaded successfully
+0	15:28:08.620	SMA_CRACKBACK EURNZDpro,H1: initialized
+0	15:34:29.617	Compiling 'SMA_CRACKBACK'
+0	15:36:13.635	SMA_CRACKBACK EURNZDpro,H1: uninit reason 9
+0	15:36:13.635	DonChianChannel USDCADpro,H4: uninit reason 9
+0	15:36:13.693	Expert SMA_CRACKBACK EURNZDpro,H1: removed
+0	15:36:13.704	Custom indicator DonChianChannel USDCADpro,H4: removed
+3	15:36:20.244	cannot open file 'C:\Program Files (x86)\MetaTrader 4 at FOREX.com\MQL4\Experts\SMA_CRACKBACK.ex4' [2]
+0	15:36:20.338	Custom indicator DonChianChannel USDCADpro,H4: loaded successfully
+0	15:36:20.344	DonChianChannel USDCADpro,H4: initialized
+0	16:00:05.130	Expert SMA_CRACKBACK AUDCADpro,H1: loaded successfully
+0	16:00:06.787	SMA_CRACKBACK AUDCADpro,H1 inputs: UseStopLoss=true; StopLoss=150; UseTakeProfit=false; TakeProfit=300; Header7=----------Trailing Stops Settings-----------; UseTrailingStops=false; TrailingStopDistance=0.0; TrailingStopBuffer=0.0; Lots=0.01; Header15=----------EA General Settings-----------; MagicNumber=12345; Slippage=3; IsECNbroker=false; OnJournaling=true; MaxLots=1; MaxOrders=2; sma_short=100; sma_long=200; 
+0	16:00:06.795	SMA_CRACKBACK AUDCADpro,H1: initialized
+0	16:00:07.756	SMA_CRACKBACK AUDCADpro,H1: wtf
+0	16:00:08.007	SMA_CRACKBACK AUDCADpro,H1: wtf
+0	16:00:11.509	SMA_CRACKBACK AUDCADpro,H1: uninit reason 1
+0	16:00:11.517	Expert SMA_CRACKBACK AUDCADpro,H1: removed
+0	16:05:08.520	Compiling 'SMA_CRACKBACK'
+0	16:08:26.053	Expert SMA_CRACKBACK AUDCADpro,H1: loaded successfully
+0	16:08:27.422	Expert SMA_CRACKBACK AUDCADpro,H1: removed

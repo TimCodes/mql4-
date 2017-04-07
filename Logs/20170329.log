@@ -1,0 +1,266 @@
+0	17:28:51.704	SMA_CRACKBACK EURNZDpro,H1: uninit reason 2
+0	17:28:51.705	Expert SMA_CRACKBACK EURNZDpro,H1: removed
+0	17:28:51.728	Expert SMA_CRACKBACK EURNZDpro,H1: loaded successfully
+0	17:28:51.752	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:28:51.752	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:28:51.752	SMA_CRACKBACK EURNZDpro,H1: initialized
+0	17:28:52.626	SMA_CRACKBACK EURNZDpro,H1: uninit reason 2
+0	17:28:52.627	Expert SMA_CRACKBACK EURNZDpro,H1: removed
+0	17:28:52.636	Expert SMA_CRACKBACK EURNZDpro,H1: loaded successfully
+0	17:28:52.660	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:28:52.660	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:28:52.660	SMA_CRACKBACK EURNZDpro,H1: initialized
+0	17:31:46.079	SMA_CRACKBACK EURNZDpro,H1: uninit reason 2
+0	17:31:46.080	Expert SMA_CRACKBACK EURNZDpro,H1: removed
+0	17:31:46.088	Expert SMA_CRACKBACK EURNZDpro,H1: loaded successfully
+0	17:31:46.096	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:31:46.096	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:31:46.096	SMA_CRACKBACK EURNZDpro,H1: initialized
+0	17:32:10.409	SMA_CRACKBACK EURNZDpro,H1: uninit reason 9
+0	17:32:10.410	DonChianChannel USDCADpro,H4: uninit reason 9
+0	17:32:10.696	Expert SMA_CRACKBACK EURNZDpro,H1: removed
+0	17:32:10.753	Custom indicator DonChianChannel USDCADpro,H4: removed
+0	17:32:17.261	Compiling 'SMA_CRACKBACK'
+0	17:32:20.638	Expert SMA_CRACKBACK EURNZDpro,H1: loaded successfully
+0	17:32:20.638	SMA_CRACKBACK EURNZDpro,H1 inputs: UseStopLoss=true; StopLoss=150; UseTakeProfit=false; TakeProfit=300; UseTrailingStop=true; TrailingStop=30; Lots=0.01; MagicNumber=12345; Slippage=3; MaxLots=1; MaxOrders=0; 
+0	17:32:20.745	Custom indicator DonChianChannel USDCADpro,H4: loaded successfully
+0	17:32:20.753	DonChianChannel USDCADpro,H4: initialized
+0	17:32:33.208	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:32:33.208	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:32:33.208	SMA_CRACKBACK EURNZDpro,H1: initialized
+0	17:32:34.701	SMA_CRACKBACK EURNZDpro,H1: uninit reason 9
+0	17:32:34.701	DonChianChannel USDCADpro,H4: uninit reason 9
+0	17:32:34.793	Expert SMA_CRACKBACK EURNZDpro,H1: removed
+0	17:32:34.803	Custom indicator DonChianChannel USDCADpro,H4: removed
+0	17:32:44.674	Compiling 'MACD Sample'
+0	17:32:44.674	Compiling 'Moving Average'
+0	17:32:47.228	Compiling 'Accelerator'
+0	17:32:47.228	Compiling 'Accumulation'
+0	17:32:47.228	Compiling 'Alligator'
+0	17:32:47.228	Compiling 'ATR'
+0	17:32:47.228	Compiling 'Awesome'
+0	17:32:47.228	Compiling 'Bands'
+0	17:32:47.228	Compiling 'Bears'
+0	17:32:47.228	Compiling 'Bulls'
+0	17:32:47.228	Compiling 'CCI'
+0	17:32:47.228	Compiling 'Custom Moving Averages'
+0	17:32:47.228	Compiling 'Heiken Ashi'
+0	17:32:47.228	Compiling 'Ichimoku'
+0	17:32:47.228	Compiling 'iExposure'
+0	17:32:47.228	Compiling 'MACD'
+0	17:32:47.228	Compiling 'Momentum'
+0	17:32:47.228	Compiling 'OsMA'
+0	17:32:47.228	Compiling 'Parabolic'
+0	17:32:47.228	Compiling 'RSI'
+0	17:32:47.228	Compiling 'Stochastic'
+0	17:32:47.228	Compiling 'ZigZag'
+0	17:32:47.229	Compiling 'SimplePanel'
+0	17:32:51.933	Compiling 'PeriodConverter'
+0	17:32:51.933	Compiling 'DLLSampleTester'
+0	17:32:51.933	Compiling 'PipeClient'
+0	17:32:51.933	Compiling 'PipeClientPure'
+0	17:32:54.374	Compiling 'stdlib'
+0	17:32:57.232	Expert SMA_CRACKBACK EURNZDpro,H1: loaded successfully
+0	17:32:57.232	SMA_CRACKBACK EURNZDpro,H1 inputs: UseStopLoss=true; StopLoss=150; UseTakeProfit=false; TakeProfit=300; UseTrailingStop=true; TrailingStop=30; Lots=0.01; MagicNumber=12345; Slippage=3; MaxLots=1; MaxOrders=0; 
+0	17:32:57.341	Custom indicator DonChianChannel USDCADpro,H4: loaded successfully
+0	17:32:57.349	DonChianChannel USDCADpro,H4: initialized
+0	17:32:59.364	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:32:59.364	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:32:59.364	SMA_CRACKBACK EURNZDpro,H1: initialized
+0	17:35:44.553	SMA_CRACKBACK EURNZDpro,H1: uninit reason 2
+0	17:35:44.554	Expert SMA_CRACKBACK EURNZDpro,H1: removed
+0	17:35:44.563	Expert SMA_CRACKBACK EURNZDpro,H1: loaded successfully
+0	17:35:44.572	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:35:44.572	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:35:44.572	SMA_CRACKBACK EURNZDpro,H1: initialized
+0	17:35:45.488	SMA_CRACKBACK EURNZDpro,H1: uninit reason 2
+0	17:35:45.489	Expert SMA_CRACKBACK EURNZDpro,H1: removed
+0	17:35:45.499	Expert SMA_CRACKBACK EURNZDpro,H1: loaded successfully
+0	17:35:45.506	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:35:45.506	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:35:45.506	SMA_CRACKBACK EURNZDpro,H1: initialized
+0	17:35:45.585	Expert SMA_CRACKBACK AUDCADpro,H1: loaded successfully
+0	17:35:46.855	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:35:46.855	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:35:47.015	SMA_CRACKBACK AUDCADpro,H1 inputs: UseStopLoss=true; StopLoss=150; UseTakeProfit=false; TakeProfit=300; UseTrailingStop=true; TrailingStop=30; Lots=0.01; MagicNumber=12345; Slippage=3; MaxLots=1; MaxOrders=0; 
+0	17:35:47.022	SMA_CRACKBACK AUDCADpro,H1: total order ----------------------------------
+0	17:35:47.022	SMA_CRACKBACK AUDCADpro,H1: 0
+0	17:35:47.022	SMA_CRACKBACK AUDCADpro,H1: initialized
+0	17:35:47.171	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:35:47.171	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:35:47.356	SMA_CRACKBACK AUDCADpro,H1: total order ----------------------------------
+0	17:35:47.356	SMA_CRACKBACK AUDCADpro,H1: 0
+0	17:35:47.432	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:35:47.432	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:35:47.607	SMA_CRACKBACK AUDCADpro,H1: total order ----------------------------------
+0	17:35:47.607	SMA_CRACKBACK AUDCADpro,H1: 0
+0	17:35:47.671	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:35:47.671	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:35:47.872	SMA_CRACKBACK AUDCADpro,H1: total order ----------------------------------
+0	17:35:47.872	SMA_CRACKBACK AUDCADpro,H1: 0
+0	17:35:47.918	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:35:47.918	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:35:48.358	SMA_CRACKBACK AUDCADpro,H1: total order ----------------------------------
+0	17:35:48.358	SMA_CRACKBACK AUDCADpro,H1: 0
+0	17:35:48.606	SMA_CRACKBACK AUDCADpro,H1: total order ----------------------------------
+0	17:35:48.606	SMA_CRACKBACK AUDCADpro,H1: 0
+0	17:35:49.105	SMA_CRACKBACK AUDCADpro,H1: total order ----------------------------------
+0	17:35:49.105	SMA_CRACKBACK AUDCADpro,H1: 0
+0	17:35:49.353	SMA_CRACKBACK AUDCADpro,H1: total order ----------------------------------
+0	17:35:49.353	SMA_CRACKBACK AUDCADpro,H1: 0
+0	17:35:58.907	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:35:58.907	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:35:58.907	SMA_CRACKBACK AUDCADpro,H1: total order ----------------------------------
+0	17:35:58.907	SMA_CRACKBACK AUDCADpro,H1: 0
+0	17:35:59.228	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:35:59.228	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:35:59.352	SMA_CRACKBACK AUDCADpro,H1: total order ----------------------------------
+0	17:35:59.352	SMA_CRACKBACK AUDCADpro,H1: 0
+0	17:35:59.604	SMA_CRACKBACK AUDCADpro,H1: total order ----------------------------------
+0	17:35:59.604	SMA_CRACKBACK AUDCADpro,H1: 0
+0	17:36:02.630	SMA_CRACKBACK AUDCADpro,H1: total order ----------------------------------
+0	17:36:02.630	SMA_CRACKBACK AUDCADpro,H1: 0
+0	17:36:06.593	SMA_CRACKBACK AUDCADpro,H1: total order ----------------------------------
+0	17:36:06.593	SMA_CRACKBACK AUDCADpro,H1: 0
+0	17:36:06.843	SMA_CRACKBACK AUDCADpro,H1: total order ----------------------------------
+0	17:36:06.843	SMA_CRACKBACK AUDCADpro,H1: 0
+0	17:36:09.585	SMA_CRACKBACK AUDCADpro,H1: uninit reason 1
+0	17:36:09.591	Expert SMA_CRACKBACK AUDCADpro,H1: removed
+0	17:36:15.140	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:36:15.140	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:36:25.380	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:36:25.380	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:36:34.240	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:36:34.240	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:36:34.490	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:36:34.490	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:36:40.681	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:36:40.681	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:37:00.881	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:37:00.881	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:37:04.629	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:37:04.629	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:37:21.850	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:37:21.850	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:37:25.687	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:37:25.687	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:37:25.909	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:37:25.909	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:37:45.874	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:37:45.874	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:38:06.906	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:38:06.906	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:38:27.123	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:38:27.123	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:38:47.428	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:38:47.428	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:38:56.505	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:38:56.505	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:38:56.754	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:38:56.754	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:38:56.944	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:38:56.944	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:39:13.160	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:39:13.160	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:39:13.348	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:39:13.348	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:39:15.908	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:39:15.908	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:39:35.878	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:39:35.878	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:39:37.376	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:39:37.376	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:40:37.856	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:40:37.856	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:40:57.876	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:40:57.876	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:41:39.122	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:41:39.122	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:41:46.426	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:41:46.426	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:42:06.342	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:42:06.342	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:42:26.632	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:42:26.632	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:42:46.599	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:42:46.599	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:42:50.658	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:42:50.658	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:43:04.196	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:43:04.196	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:43:05.039	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:43:05.039	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:43:09.652	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:43:09.652	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:43:09.953	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:43:09.953	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:43:10.205	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:43:10.205	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:43:10.735	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:43:10.735	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:43:10.919	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:43:10.919	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:43:12.165	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:43:12.165	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:43:12.416	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:43:12.416	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:43:20.405	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:43:20.405	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:43:30.471	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:43:30.471	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:43:30.642	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:43:30.642	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:43:50.932	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:43:50.932	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:44:20.127	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:44:20.127	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:44:25.684	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:44:25.684	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:44:46.413	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:44:46.413	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:44:46.653	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:44:46.653	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:45:04.929	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:45:04.929	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:45:05.117	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:45:05.117	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:45:13.356	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:45:13.356	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:45:23.666	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:45:23.666	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:45:43.870	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:45:43.870	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:45:52.691	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:45:52.691	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:45:58.425	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:45:58.425	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:46:04.414	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:46:04.414	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:46:17.153	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:46:17.153	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:46:17.394	SMA_CRACKBACK EURNZDpro,H1: total order ----------------------------------
+0	17:46:17.394	SMA_CRACKBACK EURNZDpro,H1: 0
+0	17:46:33.123	Compiling 'SMA_CRACKBACK'
+0	17:46:35.147	SMA_CRACKBACK EURNZDpro,H1: uninit reason 2
+0	17:46:35.149	Expert SMA_CRACKBACK EURNZDpro,H1: removed
+0	17:46:35.156	Expert SMA_CRACKBACK EURNZDpro,H1: loaded successfully
+0	17:46:35.163	SMA_CRACKBACK EURNZDpro,H1: initialized
+0	17:49:58.427	Compiling 'SMA_CRACKBACK'
+0	17:50:00.431	SMA_CRACKBACK EURNZDpro,H1: uninit reason 2
+0	17:50:00.432	Expert SMA_CRACKBACK EURNZDpro,H1: removed
+0	17:50:00.440	Expert SMA_CRACKBACK EURNZDpro,H1: loaded successfully
+0	17:50:00.447	SMA_CRACKBACK EURNZDpro,H1: initialized
+0	17:52:38.347	SMA_CRACKBACK EURNZDpro,H1: uninit reason 2
+0	17:52:38.348	Expert SMA_CRACKBACK EURNZDpro,H1: removed
+0	17:52:38.357	Expert SMA_CRACKBACK EURNZDpro,H1: loaded successfully
+0	17:52:38.364	SMA_CRACKBACK EURNZDpro,H1: initialized
+0	18:04:00.201	Compiling 'SMA_CRACKBACK'
+0	18:04:02.239	SMA_CRACKBACK EURNZDpro,H1: uninit reason 2
+0	18:04:02.240	Expert SMA_CRACKBACK EURNZDpro,H1: removed
+0	18:04:02.248	Expert SMA_CRACKBACK EURNZDpro,H1: loaded successfully
+0	18:04:02.264	SMA_CRACKBACK EURNZDpro,H1: initialized
+0	18:07:09.116	Compiling 'SMA_CRACKBACK'
+0	18:08:27.525	SMA_CRACKBACK EURNZDpro,H1: uninit reason 2
+0	18:08:27.525	Expert SMA_CRACKBACK EURNZDpro,H1: removed
+0	18:08:27.535	Expert SMA_CRACKBACK EURNZDpro,H1: loaded successfully
+0	18:08:27.545	SMA_CRACKBACK EURNZDpro,H1: initialized

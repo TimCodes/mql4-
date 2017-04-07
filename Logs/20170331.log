@@ -1,0 +1,4 @@
+0	10:47:26.528	SMA_CRACKBACK EURNZDpro,H1: uninit reason 9
+0	10:47:26.529	DonChianChannel USDCADpro,H4: uninit reason 9
+0	10:47:26.753	Expert SMA_CRACKBACK EURNZDpro,H1: removed
+0	10:47:26.760	Custom indicator DonChianChannel USDCADpro,H4: removed
